@@ -37,7 +37,8 @@ public class GFG {
     
 }
 
-* Output:
+* Output:-
+
 "Hello World"
 
 
