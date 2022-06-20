@@ -1,7 +1,7 @@
 # Java-Language :-
 This repositary is the collection of the materials that i have followed to learn java programming language.
 
-# Introduction :------
+# Introduction :-------
 
 ![image](https://user-images.githubusercontent.com/88799249/161603574-1869a7e6-310e-4be5-a849-a14c3c4d0549.png)
 
